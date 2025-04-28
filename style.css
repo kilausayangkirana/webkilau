@@ -50,7 +50,7 @@ nav {
 #hero .hero-img {
     width: 100%;
     height: 660px;
-    background: url(src/_.png);
+    background: url("src/bekron.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
